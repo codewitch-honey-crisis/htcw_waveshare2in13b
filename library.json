@@ -1,6 +1,6 @@
 {
     "name": "htcw_waveshare2in13b",
-    "version": "0.9.0",
+    "version": "0.9.1",
     "description": "Provides support for the Waveshare 2.13inch (b) 3-color display device w/ GFX",
     "keywords": ["epaper","eink","e-paper","e-ink","waveshare","graphics","drawing"],
     "authors": {
